@@ -1,3 +1,3 @@
 # algos
 
-Data Structures and Algorithms for Technical Interviews 
+Data Structures and Algorithms for Technical Interviews
